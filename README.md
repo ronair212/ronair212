@@ -1,5 +1,5 @@
  Hi there 👋
-- 👋 Hi, I’m Rohit Nair.
+- 👋 I’m Rohit Nair.
 - 👀 I’m interested in Machine Learning and Data Science.
 - 🔬 Currently working as a Research Assistant in Northeastern University on LLM based Project.
 - 🌱 I’m currently at Northeastern University doing my Master's in Data Scince.
