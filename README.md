@@ -1,11 +1,11 @@
  Hi there 👋
-👋 Hi, I’m Rohit Nair.
-👀 I’m interested in Machine Learning and Data Science.
-🔬 Currently working as a Research Assistant in Northeastern University on LLM based Project.
-🌱 I’m currently at Northeastern University doing my Master's in Data Scince.
-💞️ I’m looking to collaborate on Machine Learning and Data Science Applications.
-🧑🏻‍💻 Currently looking for Full time opportunities.
-📫 How to reach me nair.ro@northeastern.edu
+- 👋 Hi, I’m Rohit Nair.
+- 👀 I’m interested in Machine Learning and Data Science.
+- 🔬 Currently working as a Research Assistant in Northeastern University on LLM based Project.
+- 🌱 I’m currently at Northeastern University doing my Master's in Data Scince.
+- 💞️ I’m looking to collaborate on Machine Learning and Data Science Applications.
+- 🧑🏻‍💻 Currently looking for Full time opportunities.
+- 📫 How to reach me nair.ro@northeastern.edu
 <!--
 **ronair212/ronair212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
